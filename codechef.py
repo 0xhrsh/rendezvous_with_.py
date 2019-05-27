@@ -1,4 +1,4 @@
-from bs4 import BeautifulSoup     #try replaceing bs4 with BeautifulSoup
+from bs4 import BeautifulSoup     #try replaceing bs4 with BeautifulSoup (if this doesn't work out)
 from selenium import webdriver
 import pandas as pd 
 driver = webdriver.Chrome("/usr/lib/chromium-browser/chromedriver")
